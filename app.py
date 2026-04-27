@@ -5,7 +5,7 @@ st.set_page_config(page_title="Juegos Interactivos", page_icon="🎮")
 
 st.title("🎮 Juegos Interactivos")
 
-# -------------------------
+# ------------------------
 # SELECTOR DE JUEGO
 # -------------------------
 modo = st.selectbox(
